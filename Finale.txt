@@ -1,0 +1,6 @@
+Id	name	gender	score	grade
+32421	johhn	male	88	A
+77996	brian	male	76	B
+44556   Abby    female  45      E
+55644   Ella    female  55      D
+54432   Koo     male    81      A
